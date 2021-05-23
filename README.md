@@ -1,18 +1,20 @@
 <div align="center">
 
-![Issues](https://img.shields.io/github/issues/blackphoenix42/template_repo)
-![Pull Requests](https://img.shields.io/github/issues-pr/blackphoenix42/template_repo)
-![Forks](https://img.shields.io/github/forks/blackphoenix42/template_repo)
-![Stars](https://img.shields.io/github/stars/blackphoenix42/template_repo)
-[![License](https://img.shields.io/github/license/blackphoenix42/template_repo)](https://github.com/blackphoenix42/template_repo/blob/master/LICENSE)
+<!-- ![Issues](https://img.shields.io/github/issues/blackphoenix42/Note_Taking_App)
+![Pull Requests](https://img.shields.io/github/issues-pr/blackphoenix42/Note_Taking_App)
+![Forks](https://img.shields.io/github/forks/blackphoenix42/Note_Taking_App)
+![Stars](https://img.shields.io/github/stars/blackphoenix42/Note_Taking_App)
+[![License](https://img.shields.io/github/license/blackphoenix42/Note_Taking_App)](https://github.com/blackphoenix42/Note_Taking_App/blob/master/LICENSE) -->
 
-<img alt="LOGO" src="" width=250 height=250>
+<img alt="LOGO" src="./.github/assets/Add_Notes.svg" width="45%" >
+
+### NOTES TAKING APP
 
 <h3>Join official <a href="https://discord.gg/mRUZEhD">Discord Server</a> for discussion.</h3>
 
-![forthebadge](https://forthebadge.com/images/badges/contains-tasty-spaghetti-code.svg)
-![forthebadge](https://forthebadge.com/images/badges/designed-in-ms-paint.svg)
-![forthebadge](https://forthebadge.com/images/badges/it-works-why.svg)
+![forthebadge](https://forthebadge.com/images/badges/built-with-science.svg)
+![forthebadge](https://forthebadge.com/images/badges/for-sharks.svg)
+![forthebadge](https://forthebadge.com/images/badges/powered-by-water.svg)
 
 </div>
 
@@ -23,7 +25,7 @@
 - Clone this repository remotely.
 
 ```sh
-git clone https://github.com/blackphoenix42/template_repo.git
+git clone https://github.com/blackphoenix42/Note_Taking_App.git
 ```
 
 - Install the dependencies
@@ -32,17 +34,24 @@ git clone https://github.com/blackphoenix42/template_repo.git
 npm install
 ```
 
-# To Edit:
+- Start the app
 
-- Replace `template_repo` in `.github/config.yml` with your repository name.
-- Also, replace `template_repo` in `./README.md`
-- Edit `name`, `description` and `keywords` in `./package.json`
-- You are good to go! 🥳
+```sh
+npm start
+```
+
+<div align="center">
+	<img src="./.github/assets/welcome.svg" width="30%">
+</div>
 
 ## 🚀 How to Contribute to Project?
 
-- Take a look at the Existing [Issues](https://github.com/blackphoenix/template_repo/issues) or create your own Issues!
+- Take a look at the Existing [Issues](https://github.com/blackphoenix/Note_Taking_App/issues) or create your own Issues!
 - Check out [CONTRIBUTING.md](./CONTRIBUTING.md)
+
+<div align="center">
+	<img src="./.github/assets/ToDo.svg" width="50%">
+</div>
 
 ## 👾 Project Admin
 
