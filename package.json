@@ -1,8 +1,8 @@
 {
-  "name": "react_template",
+  "name": "Note_Taking_App",
   "author":"Binary Phoenix",
-  "description": "A project that does something awesome",
-  "keywords": [ "descriptive", "related", "words" ],
+  "description": "Note Taking App",
+  "keywords": [ "Evernote", "Note", "Notes" ],
   "license": "MIT",
   "version": "0.1.0",
   "private": true,
