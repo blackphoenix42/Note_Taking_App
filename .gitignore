@@ -121,6 +121,6 @@ dist
 build/
 
 # Misc
-.firebase/*
+.firebase
 .firebaserc
 firebase.json
