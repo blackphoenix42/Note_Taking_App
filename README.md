@@ -18,6 +18,26 @@
 
 </div>
 
+# 📃About
+
+An app where you can write, edit and delete your notes. You can also mark important notes as favorites.
+
+### Add Note➕:
+
+<img src="./.github/assets/add_note.gif" width="90%" />
+
+### Edit Note✒:
+
+<img src="./.github/assets/edit_note.gif" width="90%" />
+
+### Delete Note➖:
+
+<img src="./.github/assets/delete_note.gif" width="90%" />
+
+### Favorite Notes🧡:
+
+<img src="./.github/assets/fav_note.gif" width="90%" />
+
 # 🌱 Quick Start
 
 - Star🌟 and Fork<img width="15px" src="https://img.icons8.com/doodle/48/000000/code-fork.png"/> this repository
@@ -38,6 +58,14 @@ npm install
 
 ```sh
 npm start
+```
+
+# 🐱‍👤Build
+
+To build the app use:
+
+```sh
+npm run build
 ```
 
 <div align="center">
@@ -79,3 +107,7 @@ npm start
 		</td>
 	</tr>
 </table> -->
+<div align="center">
+<img src="./.github/assets/thank_you.svg" width="45%" /><br /> 
+<sub><b>Thank You</b></sub>
+</div>
