@@ -8,18 +8,21 @@ import rootReducer from './store/reducers/rootReducer'
 import { Provider } from 'react-redux'
 import thunk from 'redux-thunk'
 import firebase from 'firebase/app'
-import fbconfig from './config/fbconfig'
+import fbConfig from './config/fbConfig'
 import { ReactReduxFirebaseProvider, getFirebase } from 'react-redux-firebase'
 import { createFirestoreInstance, getFirestore, reduxFirestore } from 'redux-firestore'
 
-const store = createStore(rootReducer, compose(
-  applyMiddleware(thunk.withExtraArgument({ getFirebase, getFirestore }))
-),
-  reduxFirestore(fbconfig)
-)
+const store = createStore(
+  rootReducer,
+  compose(
+    applyMiddleware(thunk.withExtraArgument({ getFirebase, getFirestore })),
+    reduxFirestore(fbConfig) // redux bindings for firestore
+  )
+);
+
 const rrfProps = {
   firebase,
-  config: fbconfig,
+  config: fbConfig,
   dispatch: store.dispatch,
   createFirestoreInstance // <- needed if using firestore
 }
