@@ -12,7 +12,6 @@ const Form = () => {
         dispatch(addNote({ title, content }))
         resetTitle()
         resetContent()
-
     }
     return (
         <div className="section">
