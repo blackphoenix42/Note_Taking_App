@@ -6,7 +6,7 @@
 ![Stars](https://img.shields.io/github/stars/blackphoenix42/Note_Taking_App)
 [![License](https://img.shields.io/github/license/blackphoenix42/Note_Taking_App)](https://github.com/blackphoenix42/Note_Taking_App/blob/master/LICENSE) -->
 
-<img alt="LOGO" src="./.github/assets/Add_Notes.svg" width="45%" >
+<img alt="LOGO" src="./public/logo512.png" width="35%" >
 
 ### NOTES TAKING APP
 
