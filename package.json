@@ -9,7 +9,7 @@
     "short-notes"
   ],
   "license": "MIT",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",

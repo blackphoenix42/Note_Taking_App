@@ -6,7 +6,7 @@
 ![Stars](https://img.shields.io/github/stars/blackphoenix42/Note_Taking_App)
 [![License](https://img.shields.io/github/license/blackphoenix42/Note_Taking_App)](https://github.com/blackphoenix42/Note_Taking_App/blob/master/LICENSE) -->
 
-<img alt="LOGO" src="./public/logo512.png" width="35%" >
+<img alt="LOGO" src="https://raw.githubusercontent.com/blackphoenix42/Note_Taking_App/master/public/logo512.png" width="35%" >
 
 ### NOTES TAKING APP
 
@@ -24,19 +24,19 @@ An app where you can write, edit and delete your notes. You can also mark import
 
 ### Add Note➕:
 
-<img src="./public/assets/add_note.gif" width="90%" />
+<img src="https://raw.githubusercontent.com/blackphoenix42/Note_Taking_App/master/public/assets/add_note.gif" width="90%" />
 
 ### Edit Note✒:
 
-<img src="./public/assets/edit_note.gif" width="90%" />
+<img src="https://raw.githubusercontent.com/blackphoenix42/Note_Taking_App/master/public/assets/edit_note.gif" width="90%" />
 
 ### Delete Note➖:
 
-<img src="./public/assets/delete_note.gif" width="90%" />
+<img src="https://raw.githubusercontent.com/blackphoenix42/Note_Taking_App/master/public/assets/delete_note.gif" width="90%" />
 
 ### Favorite Notes🧡:
 
-<img src="./public/assets/fav_note.gif" width="90%" />
+<img src="https://raw.githubusercontent.com/blackphoenix42/Note_Taking_App/master/public/assets/fav_note.gif" width="90%" />
 
 # 🌱 Quick Start
 
@@ -69,7 +69,7 @@ npm run build
 ```
 
 <div align="center">
-	<img src="./public/assets/welcome.svg" width="30%">
+	<img src="https://raw.githubusercontent.com/blackphoenix42/Note_Taking_App/9687dbcbd8e9072f7b0afc427d6867c3723b43c0/public/assets/welcome.svg" width="30%">
 </div>
 
 ## 🚀 How to Contribute to Project?
@@ -78,7 +78,7 @@ npm run build
 - Check out [CONTRIBUTING.md](./CONTRIBUTING.md)
 
 <div align="center">
-	<img src="./public/assets/ToDo.svg" width="50%">
+	<img src="https://raw.githubusercontent.com/blackphoenix42/Note_Taking_App/9687dbcbd8e9072f7b0afc427d6867c3723b43c0/public/assets/ToDo.svg" width="50%">
 </div>
 
 ## 👾 Project Admin
@@ -108,6 +108,6 @@ npm run build
 	</tr>
 </table> -->
 <div align="center">
-<img src="./public/assets/thank_you.svg" width="45%" /><br /> 
+<img src="https://raw.githubusercontent.com/blackphoenix42/Note_Taking_App/9687dbcbd8e9072f7b0afc427d6867c3723b43c0/public/assets/thank_you.svg" width="45%" /><br /> 
 <sub><b>Thank You</b></sub>
 </div>
