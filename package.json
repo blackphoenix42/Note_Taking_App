@@ -3,12 +3,13 @@
   "author": "Binary Phoenix",
   "description": "Note Taking App",
   "keywords": [
-    "Evernote",
+    "Note-app",
     "Note",
-    "Notes"
+    "personal-notes",
+    "short-notes"
   ],
   "license": "MIT",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
