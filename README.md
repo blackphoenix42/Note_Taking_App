@@ -24,19 +24,19 @@ An app where you can write, edit and delete your notes. You can also mark import
 
 ### Add Note➕:
 
-<img src="./.github/assets/add_note.gif" width="90%" />
+<img src="./public/assets/add_note.gif" width="90%" />
 
 ### Edit Note✒:
 
-<img src="./.github/assets/edit_note.gif" width="90%" />
+<img src="./public/assets/edit_note.gif" width="90%" />
 
 ### Delete Note➖:
 
-<img src="./.github/assets/delete_note.gif" width="90%" />
+<img src="./public/assets/delete_note.gif" width="90%" />
 
 ### Favorite Notes🧡:
 
-<img src="./.github/assets/fav_note.gif" width="90%" />
+<img src="./public/assets/fav_note.gif" width="90%" />
 
 # 🌱 Quick Start
 
@@ -69,7 +69,7 @@ npm run build
 ```
 
 <div align="center">
-	<img src="./.github/assets/welcome.svg" width="30%">
+	<img src="./public/assets/welcome.svg" width="30%">
 </div>
 
 ## 🚀 How to Contribute to Project?
@@ -78,7 +78,7 @@ npm run build
 - Check out [CONTRIBUTING.md](./CONTRIBUTING.md)
 
 <div align="center">
-	<img src="./.github/assets/ToDo.svg" width="50%">
+	<img src="./public/assets/ToDo.svg" width="50%">
 </div>
 
 ## 👾 Project Admin
@@ -108,6 +108,6 @@ npm run build
 	</tr>
 </table> -->
 <div align="center">
-<img src="./.github/assets/thank_you.svg" width="45%" /><br /> 
+<img src="./public/assets/thank_you.svg" width="45%" /><br /> 
 <sub><b>Thank You</b></sub>
 </div>
